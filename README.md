@@ -5,5 +5,6 @@ Solution for https://ods.ai/competitions/sberbank-covid19-forecast
 - Fit sigmoid
 - Line prediction
 - Backtest on 1 week of challenge
+- Creating of submussion file
 ## Backtest results
 ![Графики](https://github.com/ArefievMC/Covid19_ODS_prediction/blob/master/BackTest.PNG)
