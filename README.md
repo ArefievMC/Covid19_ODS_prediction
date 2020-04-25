@@ -8,3 +8,5 @@ Solution for https://ods.ai/competitions/sberbank-covid19-forecast
 - Creating of submussion file
 ## Backtest results
 ![Графики](https://github.com/ArefievMC/Covid19_ODS_prediction/blob/master/BackTest.PNG)
+## Moscow predictions
+![Графики](https://github.com/ArefievMC/Covid19_ODS_prediction/blob/master/Moscow_Predictions.png)
