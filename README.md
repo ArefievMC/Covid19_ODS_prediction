@@ -11,4 +11,4 @@ Solution for https://ods.ai/competitions/sberbank-covid19-forecast
 ![Графики](https://github.com/ArefievMC/Covid19_ODS_prediction/blob/master/BackTest.PNG)
 ## Moscow and Saint Petersburg predictions
 ![Графики](https://github.com/ArefievMC/Covid19_ODS_prediction/blob/master/Moscow_Predictions.png)
-![Графики](https://github.com/ArefievMC/Covid19_ODS_prediction/blob/master/Saint Petersburg.png.png)
+![Графики](https://github.com/ArefievMC/Covid19_ODS_prediction/blob/master/Saint Petersburg.png)
