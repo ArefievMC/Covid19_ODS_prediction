@@ -1,10 +1,10 @@
 ## Covid19_ODS_prediction
 Solution for https://ods.ai/competitions/sberbank-covid19-forecast
 ## Models
-- LightGBM
+- LightGBM (one model for evey day)
 - Fit sigmoid
 - Line prediction
-- Change target
+- Change target (division real / last)
 - Backtest on first week of challenge
 - Creating of submussion file
 ## Backtest results
